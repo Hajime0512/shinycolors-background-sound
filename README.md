@@ -9,7 +9,7 @@ https://www.tampermonkey.net
 
 ブラウザの設定で、デフォルトではユーザースクリプトの実行が許可されていない場合があります。許可する設定にしてください。
 1. 本スクリプトをインストール
-https://raw.githubusercontent.com/Hajime0512/shinycolors-background-sound/refs/heads/main/shinycolors-background-sound.js
+https://github.com/Hajime0512/shinycolors-background-sound/raw/main/shinycolors-background-sound.user.js
 
 1. スクリプトを有効化
 
